@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ec454-b16d-45f9-b70b-9a54e8655ba4" name="Changes" comment="hw complete Imperative + Declarative">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw2/MultiplicationTable.java" afterDir="false" />
+    <list default="true" id="4f1ec454-b16d-45f9-b70b-9a54e8655ba4" name="Changes" comment="hw2 complete Multiplication table">
+      <change afterPath="$PROJECT_DIR$/src/Hw3/GameField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hw3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Declarative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hw1/Declarative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Imperative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hw1/Imperative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hw1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704899885408</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw2 complete Multiplication table">
+      <created>1705321048866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705321048866</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hw2 complete Multiplication table">
+      <created>1705321093441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705321093441</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="hw complete Imperative + Declarative" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw complete Imperative + Declarative" />
+    <MESSAGE value="hw2 complete Multiplication table" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw2 complete Multiplication table" />
   </component>
 </project>
